@@ -1,0 +1,21 @@
+1 - Escreva um programa que receba um número inteiro do usuário entre 1 e 7. Exiba o dia da semana correspondente. (Obs. Semana começa no domingo);
+
+2 - Escreva um programa que receba 5 números do usuário. Retorne a soma desses números e a média;
+
+3 - Escreva um programa que permita o usuário informar a sua idade. Então o programa deve exibir se a pessoa é elegível para votar. Uma pessoa que pode votar tem a idade maior ou igual a 18 anos. Maiores de 70 anos são opcionais;
+
+4 - Escreva um programa para calcular a quantidade de litros de combustível necessária para se fazer uma viagem, sabendo-se que o carro faz 12 Km com um litro. Deverão ser fornecidos o tempo gasto na viagem e a velocidade média. Utilizar as seguintes fórmulas: 
+    distância = tempo x velocidade 
+    litros usados = distância / 12
+
+5 - Faça um programa que receba um número entre 1 e 12. Correspondente ao número passado, deve exibir o nome do mês;
+
+6 - Faça um programa que receba 3 números e imprima o maior deles;
+
+7 - Faça um programa que receba o ano atual e o ano de nascimento de uma pessoa. Escrever uma mensagem que diga se ela poderá ou não votar este ano (não é necessário considerar o mês em que a pessoa nasceu);
+
+8 - Faça um programa que leia duas notas de um aluno. Calcule a média e escreva uma mensagem que diga se o aluno foi ou não aprovado (considerar que nota igual ou maior que 6 o aluno é aprovado). Escrever também a média calculada;
+
+9 - Desenvolva um programa que leia um número inteiro e imprima o seu antecessor e seu sucessor;
+
+10 -Crie um algoritmo que leia o valor do salário mínimo e o valor do salário de um usuário, calcule a quantidade de salários mínimos esse usuário ganha e imprima o resultado;
