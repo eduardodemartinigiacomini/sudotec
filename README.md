@@ -6,3 +6,5 @@ eduardo.giacomini@kepha.com.br
 
 
 Url para entrega do trabalho de 17.03.2020 https://filerequestpro.com/up/trabalho-20200317
+
+Url para treino de algoritmos: https://www.urionlinejudge.com.br/
