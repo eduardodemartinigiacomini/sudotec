@@ -1,0 +1,23 @@
+- Escrever um programa para exibir os números de 1 até 50 na tela.
+
+- Fazer um programa para encontrar todos os pares entre 1 e 100.
+
+- Ler um valor inteiro (aceitar somente valores entre 1 e 10) e escrever a tabuada de 1 a 10 do valor lido.
+
+- Leia várias idades e calcule a média entre as idades (usar uma variável para idade).
+
+- Ler 10 números e imprimir quantos são pares e quantos são ímpares.
+
+- Utilizando a estrutura de repetição for, faça um programa que receba 10 números e conte quantos deles estão no intervalo [10,20] e quantos deles estão fora do intervalo, escrevendo estas informações.
+
+- Crie um programa para ler 3 notas e mostrar a média delas.
+
+- Faça um programa que peça ao usuário um número entre 12 e 20. Se a pessoa digitar um número diferente, mostrar a mensagem "entrada inválida" e solicitar o número novamente. Se digitar correto mostrar o número digitado.
+
+- Crie um programa que leia um número do teclado até que encontre um número igual a zero. No final, mostre a soma dos números digitados.
+
+- Escrever  um programa java que receba dois números e exiba o resultado da sua soma.
+
+- Escreva um algoritmo que solicite ao usuário a entrada de 5 números, e que exiba o somatório desses números na tela. Após exibir a soma, o programa deve mostrar também os números que o usuário digitou, um por linha.
+
+
