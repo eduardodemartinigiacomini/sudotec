@@ -1,1 +1,11 @@
+- Faça um programa que verifique se um array de int’s contem números 1’s e 3’s;
+
+- Retorne a soma de um array de números. Retorne zero se o array está vazio. O número 13 é um número do azar, então se tiver um 13, não some e ignore também os próximos números da lista;
+
+- Faça um programa que receba um array de int’s. Retorne um novo array contendo os elementos do array original que vierem após o último número 4; O array original vai conter pelo menos um 4;
+
+- Receba 3 int’s, A, B e C, retorne a soma; Se um dos valores for 13 então não conta e os números a direita também não contam. Por exemplo, se B é 13, então B e C não contam pra soma;
+
+- Se listarmos todos os números naturais abaixo de 10 que são múltiplos de 3 ou 5, nós temos 3, 5, 6 e 9. A soma desses múltiplos é 23. Encontre a soma de todos os números múltiplos de 3 ou 5 abaixo de 1000;
+
 
